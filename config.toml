@@ -902,7 +902,7 @@ disableHugoGeneratorInject = false
 ##############################
 
   [languages.es]
-    subtitle  = "Bem-vindo"
+    subtitle  = "Bienvenido"
     weight    = 8
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     contentDir = "content/es"
