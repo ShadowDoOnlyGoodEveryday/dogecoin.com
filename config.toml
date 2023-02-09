@@ -910,25 +910,25 @@ disableHugoGeneratorInject = false
 [languages.es.menu]
   [[languages.es.menu.main]]
     identifier = "home"
-    name       = "Home"
+    name       = "Inicio"
     url        = "/"
     weight     = 1
 
   [[languages.es.menu.main]]
     identifier = "what-is-dogecoin"
-    name       = "What is Dogecoin?"
+    name       = "¿Que es Dogecoin?"
     url        = "#what-is-dogecoin"
     weight     = 2
 
   [[languages.es.menu.main]]
     identifier = "wallets"
-    name       = "Wallets"
+    name       = "Carteras"
     url        = "#wallets"
     weight     = 3
 
   [[languages.es.menu.main]]
     identifier = "community"
-    name       = "Community"
+    name       = "Comunidad"
     url        = "#community"
     weight     = 4
 
@@ -950,47 +950,47 @@ disableHugoGeneratorInject = false
 
     [[languages.es.menu.main]]
     identifier = "how-tos"
-    name       = "How Tos"
+    name       = "¿Como hacer..."
     url        = "dogepedia/#howto"
     parent = "dogepedia"
     weight     = 5
 
     [[languages.es.menu.main]]
     identifier = "documentation"
-    name       = "Documentation"
+    name       = "Documentación"
     url        = "dogepedia/#documentation"
     parent = "dogepedia"
     weight     = 5
 
     [[languages.es.menu.main]]
     identifier = "resource"
-    name       = "Resources"
+    name       = "Recursos"
     url        = "resources/"
     parent = "dogepedia"
     weight     = 5
 
 [[languages.es.params.footerLegal]]
-    name = "Terms & Conditions"
+    name = "Términos y Condiciones"
     url  = "/terms"
 
   [[languages.es.params.footerLegal]]
-    name = "Privacy Policy"
+    name = "Política de Privacidad"
     url  = "/legal"
 
   [[languages.es.params.footerLegal]]
-    name = "Trademarks"
+    name = "Marca Comercial"
     url  = "/trademarks"
 
 [[languages.es.params.footerFoundation]]
-    name = "About"
+    name = "Acerca"
     url  = "https://foundation.dogecoin.com/about/"
 
   [[languages.es.params.footerFoundation]]
-    name = "Manifesto"
+    name = "Manifiesto"
     url  = "https://foundation.dogecoin.com/manifesto/"
 
   [[languages.es.params.footerFoundation]]
-    name = "Advisors"
+    name = "Asesores"
     url  = "https://foundation.dogecoin.com/about/"
 
   [[languages.es.params.footerFoundation]]
@@ -998,7 +998,7 @@ disableHugoGeneratorInject = false
     url  = "https://foundation.dogecoin.com/announcements/"
 
   [[languages.es.params.footerFoundation]]
-    name = "Trailmap"
+    name = "Hoja de Ruta"
     url  = "https://foundation.dogecoin.com/roadmap/"
 
 
